@@ -16,3 +16,4 @@ RENCANA KONTEN WPU
   * ES6
   * FrameWork Javascript
 - PHP Frameworks
+   ^ Laravel
