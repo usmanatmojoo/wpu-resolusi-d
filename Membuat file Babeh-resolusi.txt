@@ -9,6 +9,7 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+    ^React
 - Webpack
 - Phython
 - Struktur Data Dasar
@@ -16,3 +17,5 @@ RENCANA KONTEN WPU
   * ES6
   * FrameWork Javascript
 - PHP Frameworks
+   ^ Laravel
+- Interview
