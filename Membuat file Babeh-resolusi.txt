@@ -11,3 +11,7 @@ RENCANA KONTEN WPU
     ^ Numeral.js
 - Webpack
 - Phython
+- Struktur Data Dasar
+- Java script 
+  * ES6
+  * FrameWork Javascript
