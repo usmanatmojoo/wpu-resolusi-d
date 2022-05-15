@@ -13,9 +13,14 @@ RENCANA KONTEN WPU
 - Webpack
 - Phython
 - Struktur Data Dasar
+ * Library Javascript
+    ^ Highcharts.js
+    ^ Numeral.js
+    ^React
 - Java script 
   * ES6
   * FrameWork Javascript
 - PHP Frameworks
    ^ Laravel
 - Interview
+- Vlogs
