@@ -12,3 +12,6 @@ RENCANA KONTEN WPU
 - Webpack
 - Phython
 - Struktur Data Dasar
+- Java script 
+  * ES6
+  * FrameWork Javascript
