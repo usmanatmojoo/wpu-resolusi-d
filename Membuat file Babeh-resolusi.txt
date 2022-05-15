@@ -10,3 +10,4 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+- Webpack
