@@ -9,6 +9,7 @@ RENCANA KONTEN WPU
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
+    ^React
 - Webpack
 - Phython
 - Struktur Data Dasar
